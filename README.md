@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" width="250" src="./assets/bunny-girl.jpg" alt="bunny girl" />
+<img align="right" width="250" src="./assets/1793985676927_image.png" alt="bunny girl" />
 
 ### ฅ^•ﻌ•^ฅ　about me
 
@@ -26,7 +26,7 @@
 
 <img width="100%" src="./assets/divider.svg" />
 
-<img align="left" width="210" src="./assets/peace-catboy.jpg" alt="cat boy" />
+<img align="left" width="210" src="./assets/1793985688422_image.png" alt="cat boy" />
 
 ### (=^･ω･^=)　toolbox
 
@@ -63,7 +63,7 @@
 ### ／ᐠ｡ꞈ｡ᐟ＼　things i made
 
 <div align="center">
-<img width="420" src="./assets/hacker-boy.jpg" alt="hacker boy at his desk" /><br/>
+<img width="420" src="./assets/1793985725959_image.png" alt="hacker boy at his desk" /><br/>
 <sub><i>me, reverse engineering something i probably shouldn't (◔◡◔)</i></sub>
 </div>
 
@@ -85,7 +85,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=0dev1337&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff6fae&icon_color=b07cff&text_color=5a3a7a&ring_color=ff6fae&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dev1337&layout=compact&hide_border=true&bg_color=f3ecff&title_color=b07cff&text_color=5a3a7a" />
 
-<img width="560" src="./assets/3am-debug.jpg" alt="debugging at 3am" /><br/>
+<img width="560" src="./assets/1793985717913_image.png" alt="debugging at 3am" /><br/>
 <sub><i>me when prod goes down at 3 am (╥﹏╥)</i></sub>
 
 </div>
@@ -95,9 +95,9 @@
 ### ฅ(^・ω・^ฅ)　repo guardians
 
 <div align="center">
-<img width="200" src="./assets/tuxedo-cat.jpg" alt="tuxedo cat" />
+<img width="200" src="./assets/1793985739351_image.png" alt="tuxedo cat" />
 &nbsp;&nbsp;
-<img width="200" src="./assets/fluffy-cat.jpg" alt="fluffy cat" /><br/>
+<img width="200" src="./assets/1793985746963_image.png" alt="fluffy cat" /><br/>
 <sub><i>they review every PR. they approve none.</i></sub>
 </div>
 
@@ -105,8 +105,8 @@
 
 <div align="center">
 
-<img width="150" src="./assets/peace-mouse.png" alt="peace" />
-<img width="150" src="./assets/peace-cat.png" alt="peace" />
+<img width="150" src="./assets/1793985696391_image.png" alt="peace" />
+<img width="150" src="./assets/1793985703529_image.png" alt="peace" />
 
 💌 [zero@zerodev.me](mailto:zero@zerodev.me)　·　🔐 PGP `ED02 4FC2 7387 0261 24D9 A95A 73BC E49F 77ED A3FC`
 
