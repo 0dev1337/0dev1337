@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70">
+  <style>
+    .z{font-family:sans-serif;font-weight:700;fill:#b07cff;animation:z 3s ease-in infinite}
+    .z2{animation-delay:1s}.z3{animation-delay:2s}
+    @keyframes z{0%{opacity:0;transform:translate(0,0)}30%{opacity:1}100%{opacity:0;transform:translate(14px,-22px)}}
+    .breathe{transform-box:fill-box;transform-origin:center bottom;animation:br 3s ease-in-out infinite}
+    @keyframes br{0%,100%{transform:scaleY(1)}50%{transform:scaleY(1.06)}}
+  </style>
+  <g fill="#ffb3d9" opacity=".8">
+    <defs><g id="paw"><ellipse cx="0" cy="4" rx="6" ry="5"/><circle cx="-6" cy="-4" r="2.4"/><circle cx="-2" cy="-7" r="2.4"/><circle cx="2" cy="-7" r="2.4"/><circle cx="6" cy="-4" r="2.4"/></g></defs>
+    <use href="#paw" x="60" y="40"/><use href="#paw" x="130" y="32"/><use href="#paw" x="200" y="40"/><use href="#paw" x="270" y="32"/><use href="#paw" x="340" y="40"/>
+    <use href="#paw" x="560" y="40"/><use href="#paw" x="630" y="32"/><use href="#paw" x="700" y="40"/><use href="#paw" x="770" y="32"/><use href="#paw" x="840" y="40"/>
+  </g>
+  <g transform="translate(450 46)">
+    <g class="breathe">
+      <path d="M30 12 Q52 10 40 -6 Q34 -14 22 -8" stroke="#c9b6ff" stroke-width="8" fill="none" stroke-linecap="round"/>
+      <ellipse cx="4" cy="2" rx="38" ry="18" fill="#c9b6ff"/>
+      <circle cx="-26" cy="-2" r="16" fill="#c9b6ff"/>
+      <path d="M-38 -10 L-40 -28 L-28 -16 Z M-20 -14 L-14 -30 L-12 -14 Z" fill="#c9b6ff"/>
+      <path d="M-34 -2 Q-31 1 -28 -2 M-22 -2 Q-19 1 -16 -2" stroke="#5a3a96" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <ellipse cx="-36" cy="4" rx="4" ry="2" fill="#ff8fbf" opacity=".7"/>
+    </g>
+    <text class="z" x="-4" y="-20" font-size="12">z</text>
+    <text class="z z2" x="-4" y="-20" font-size="14">z</text>
+    <text class="z z3" x="-4" y="-20" font-size="16">Z</text>
+  </g>
+</svg>
