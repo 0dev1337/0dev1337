@@ -71,7 +71,7 @@
 
 | | project | made with | what it does ♡ |
 |:-:|:--|:--|:--|
-| 🌐 | **[ReverseLLMs](https://reversellms.com)** | `Go` `Next.js` `Mongo` | one REST API over many AI web UIs, swap providers mid-chat *(private)* |
+| 🌐 | **[ReverseLLMs](https://reversellms.com)** | `Go` `Next.js` `Mongo` | reverse engineered ai services and made them free *(private)* |
 | 📞 | **Vartalap** | `Go` `Twilio` `LLM` | AI helper over a plain phone call / SMS, no internet needed *(private)* |
 | 🛡️ | **[XFW](https://github.com/0dev1337/xfw)** | `Rust` `eBPF` | lil firewall that drops packets at the XDP hook |
 | 🎵 | **[SpotifyDL](https://github.com/0dev1337/SpotifyDL)** | `Go` `TUI` | playlist → 320 kbps MP3s with cover art |
