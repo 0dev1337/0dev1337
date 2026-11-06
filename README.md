@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffd6ea,50:e6dcff,100:d6efff&text=0dev1337%20%E2%99%A1&fontColor=ff6fae&fontSize=64&fontAlignY=36&desc=%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%20%C3%97%20%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%20%20%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85&descAlignY=58&descSize=18&animation=fadeIn" alt="0dev1337" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff9ecb,50:c9a0ff,100:8fd3ff&text=0dev1337%20%E2%99%A1&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%20%C3%97%20%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%20%20%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn" alt="0dev1337" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=21&duration=2600&pause=900&color=FF6FAE&background=00000000&center=true&vCenter=true&width=700&lines=nyaa~+welcome+to+my+lil+corner+%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85;Go+%E2%99%A1+Rust+%E2%99%A1+eBPF+%E2%80%94+100k%2B+req%2Fs+(%E2%89%A7%E2%97%A1%E2%89%A6);reverse+engineer+%C3%97+security+researcher+%E2%9C%A7;ran+a+hosting+company+at+16+(%E0%B9%91%CB%83%E1%B4%97%CB%82)%EF%BB%AD" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=21&duration=2600&pause=900&color=FF6FAE&background=00000000&center=true&vCenter=true&width=700&lines=nyaa~+welcome+to+my+lil+corner+%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85;Go+%E2%99%A1+Rust+%E2%99%A1+eBPF+%E2%80%94+100k%2B+req%2Fs+(%E2%89%A7%E2%97%A1%E2%89%A6);software+developer+%C3%97+security+researcher+%E2%9C%A7;ran+a+hosting+company+at+16+(%E0%B9%91%CB%83%E1%B4%97%CB%82)%EF%BB%AD" alt="typing" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### ฅ^•ﻌ•^ฅ　about me
 
-- 🌸 **backend engineer & security researcher**
+- 🌸 **software developer & security researcher**
 - ⚡ secure services at **100,000+ req/s** in Go & Rust
 - 🐾 ran a **privacy-first VPS hosting company at 16**: racks, Proxmox, BGP, the whole thing
 - 🍡 found a **critical XSS on SIH 2025** → acknowledged by **NPCI**
@@ -26,7 +26,7 @@
 
 <img width="100%" src="./assets/divider.svg" />
 
-<img align="left" width="210" src="./assets/1793985688422_image.png" alt="cat boy" />
+<img align="left" width="190" src="./assets/1793985688422_image.png" alt="cat boy" />
 
 ### (=^･ω･^=)　toolbox
 
@@ -52,19 +52,21 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-c9e4ff?style=for-the-badge&logo=wireshark&logoColor=1a5f8a)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ffc9bf?style=for-the-badge&logo=pytorch&logoColor=a02a10)
 
-🎀 **sec** · pentest · SIEM · IR · OWASP · threat modeling · CTFs<br/>
-🎀 **net** · BGP · IPv6 · eBPF · XDP · DPDK · zero-copy<br/>
-🎀 **infra** · Proxmox · Grafana · Prometheus · Nginx · CI/CD
-
 <br clear="left"/>
+
+<p align="center">
+🎀 <b>sec</b> · pentest · SIEM · IR · OWASP · threat modeling · CTFs<br/>
+🎀 <b>net</b> · BGP · IPv6 · eBPF · XDP · DPDK · zero-copy<br/>
+🎀 <b>infra</b> · Proxmox · Grafana · Prometheus · Nginx · CI/CD
+</p>
 
 <img width="100%" src="./assets/divider.svg" />
 
 ### ／ᐠ｡ꞈ｡ᐟ＼　things i made
 
 <div align="center">
-<img width="420" src="./assets/1793985725959_image.png" alt="hacker boy at his desk" /><br/>
-<sub><i>me, reverse engineering something i probably shouldn't (◔◡◔)</i></sub>
+<img width="320" src="./assets/1793985725959_image.png" alt="dev at his desk" /><br/>
+<sub><i>me, shipping code at 2 am (◔◡◔)</i></sub>
 </div>
 
 | | project | made with | what it does ♡ |
@@ -82,10 +84,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0dev1337&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff6fae&icon_color=b07cff&text_color=5a3a7a&ring_color=ff6fae&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dev1337&layout=compact&hide_border=true&bg_color=f3ecff&title_color=b07cff&text_color=5a3a7a" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0dev1337&theme=radical" alt="profile details" />
 
-<img width="560" src="./assets/1793985717913_image.png" alt="debugging at 3am" /><br/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0dev1337&theme=radical" alt="stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0dev1337&theme=radical" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=0dev1337&hide_border=true&background=141321&ring=FE428E&fire=FE428E&currStreakLabel=FE428E&sideLabels=C9A0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9FEF7&stroke=30363D" alt="streak" />
+
+<img width="420" src="./assets/1793985717913_image.png" alt="debugging at 3am" /><br/>
 <sub><i>me when prod goes down at 3 am (╥﹏╥)</i></sub>
 
 </div>
@@ -95,9 +101,9 @@
 ### ฅ(^・ω・^ฅ)　repo guardians
 
 <div align="center">
-<img width="200" src="./assets/1793985739351_image.png" alt="tuxedo cat" />
+<img height="260" src="./assets/1793985739351_image.png" alt="tuxedo cat" />
 &nbsp;&nbsp;
-<img width="200" src="./assets/1793985746963_image.png" alt="fluffy cat" /><br/>
+<img height="260" src="./assets/1793985746963_image.png" alt="fluffy cat" /><br/>
 <sub><i>they review every PR. they approve none.</i></sub>
 </div>
 
@@ -112,6 +118,6 @@
 
 *i have many private repos >_<*　ありがとう for visiting ✌ ♡
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:d6efff,50:e6dcff,100:ffd6ea&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8fd3ff,50:c9a0ff,100:ff9ecb&section=footer" />
 
 </div>
